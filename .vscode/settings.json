@@ -1,0 +1,6 @@
+{
+    "chat.defaultConfiguration": {
+        "approvals": "allowAll"
+    },
+    "chat.permissions.default": "autoApprove"
+}
